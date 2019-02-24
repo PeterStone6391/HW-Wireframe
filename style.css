@@ -1,0 +1,88 @@
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background: #777;   
+    width: 960px;
+    font-size: 18px;
+
+}
+
+.Header{
+    color: #777;
+    background: #ebebeb;
+    padding: 30px;
+    margin-bottom: 15px;
+}
+
+.Nav{
+    color: #777;
+    background: #ebebeb;
+    padding: 30px;
+    margin-bottom: 15px;
+
+}
+.Full{
+    width: 960px;
+    overflow: auto;
+    clear: both;
+    background: #777;
+}
+.Section{
+    color: #777;
+    background: #ebebeb;
+    padding-top: 35px; 
+    padding-bottom: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    width: 530px;
+    float: left;
+}
+.Aside{
+    color: #777;
+    background: #ebebeb;
+    padding-top: 35px;
+    padding-bottom: 275px;
+    width: 410px;
+    margin-bottom: 15px;
+    float: left;
+}
+.Article{
+    color: #ebebeb;
+    background: #777;
+    margin-top: 30px;
+    margin-left: 15px;
+    padding-top: 15px;  
+    padding-bottom: 25px;
+    width: 500px;   
+}
+.P{
+    color: #777;
+    background: #ebebeb;
+    margin-top: 15px;
+    width: 470px;  
+    margin-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;  
+}
+.P1{
+    color: #777;
+    background: #ebebeb;
+    margin-top: 15px;
+    width: 470px;  
+    margin-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;   
+}
+.Footer{
+    color: #777;
+    background: #ebebeb;
+    padding: 30px;
+    margin-bottom: 15px;
+}
